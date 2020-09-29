@@ -1,0 +1,16 @@
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\merth\source\repos\Blog\Business\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\merth\source\repos\Blog\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
