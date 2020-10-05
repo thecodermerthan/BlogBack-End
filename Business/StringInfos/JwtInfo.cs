@@ -8,7 +8,7 @@ namespace Business.StringInfos
     {
         public const string Issuer = "http://localhost:49602";
         public const string Audience = "http://localhost:5000";
-        public const string SecurityKey = "mert123";
+        public const string SecurityKey = "mert123mert123mert123mert123mert123";
         public const double Expires = 40;
     }
 }
